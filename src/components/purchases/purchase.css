@@ -1,0 +1,18 @@
+
+
+.btn{
+    display: inline-block;
+    border: none;
+    background: #282c34;
+    color: honeydew;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background: #666;
+}
+
+.redColor{
+    color: #c00a08;
+}
+
